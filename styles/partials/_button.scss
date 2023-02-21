@@ -1,0 +1,9 @@
+.button.primary {
+  border: 2px solid var(--primary);
+  color: var(--primary);
+  border-radius: 0.5rem;
+  font-weight: 600;
+  padding: 0.8rem 2rem;
+  @apply focus:outline-none focus:bg-primary-gradient focus:text-black;
+  @apply hover:bg-primary-gradient hover:text-black;
+}

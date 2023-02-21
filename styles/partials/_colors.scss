@@ -1,0 +1,17 @@
+:root {
+  --primary: hsl(291, 83%, 75%);
+  --primary-gradient: linear-gradient(
+    137.01deg,
+    hsl(179, 96%, 73%) -3.62%,
+    hsl(174, 83%, 75%) 36.69%,
+    hsl(167, 62%, 75%) 97.7%
+  );
+
+  --dark: hsl(194, 100%, 4%);
+  --darker: hsl(177, 100%, 4%);
+  --dark-gradient: linear-gradient(
+    180deg,
+    hsl(194, 89%, 7%) 0%,
+    hsl(177, 100%, 5%) 100%
+  );
+}
