@@ -95,13 +95,13 @@ export const PROJECTS = [
     description: `'This react native app includes Dice, Weather, Todo, Currency converter, Weather and a Html, Css, Js cheat sheet`,
     technologies: [
       {
-        name: 'next',
-        icon: 'next',
+        name: 'react',
+        icon: 'react',
       },
       
     ],
     links: {
-      github: 'https://github.com/MaxRuotsalainen/Next-woocommerce',
+      github: 'https://github.com/MaxRuotsalainen/multi-feature-react-native',
      
       npm: null,
     },
